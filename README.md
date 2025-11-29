@@ -40,7 +40,6 @@ Performs:
   - Secret file data  
 - Copy remaining image data untouched 
 
----
 
 ### ✔ Decode Mode  ./stego -d <stego.bmp> [output_file]
 
